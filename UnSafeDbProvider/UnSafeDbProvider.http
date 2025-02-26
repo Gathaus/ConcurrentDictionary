@@ -1,0 +1,6 @@
+@UnSafeDbProvider_HostAddress = http://localhost:5173
+
+GET {{UnSafeDbProvider_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

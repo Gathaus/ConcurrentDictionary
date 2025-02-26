@@ -1,0 +1,6 @@
+@ConcurrentDictionary_HostAddress = http://localhost:5212
+
+GET {{ConcurrentDictionary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
